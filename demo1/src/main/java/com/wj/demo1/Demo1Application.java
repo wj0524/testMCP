@@ -19,4 +19,15 @@ public class Demo1Application {
         System.out.println(a+b);
     }
 
+    void test1(){
+        int a = 1;
+        int b = 1;
+        System.out.println(a+b);
+    }
+
+    void test2(){
+
+    }
+
+
 }
