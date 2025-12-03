@@ -13,5 +13,10 @@ public class Demo1Application {
         SpringApplication.run(Demo1Application.class, args);
     }
 
+    void test(){
+        int a = 1;
+        int b = 2;
+        System.out.println(a+b);
+    }
 
 }
