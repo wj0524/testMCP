@@ -7,9 +7,26 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Demo1Application {
 
     public static void main(String[] args) {
-        // start the project
+        // start the projects
+        // haha
         // 1111
         SpringApplication.run(Demo1Application.class, args);
+    }
+
+    void test(){
+        int a = 1;
+        int b = 2;
+        System.out.println(a+b);
+    }
+
+    void test1(){
+        int a = 1;
+        int b = 1;
+        System.out.println(a+b);
+    }
+
+    void test2(){
+
     }
 
 
