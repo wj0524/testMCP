@@ -26,7 +26,7 @@ public class Demo1Application {
     }
 
     void test2(){
-
+        System.out.println("2");
     }
 
 
